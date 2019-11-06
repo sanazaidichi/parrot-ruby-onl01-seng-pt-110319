@@ -1,5 +1,5 @@
 def parrot(string)
-  default_argument = "Squawk!"
+  "Squawk!"
   return "string"
   "Squawk!"
 end
